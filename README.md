@@ -1,5 +1,3 @@
-<img width="529" alt="image" src="https://github.com/BNDSer/Voice-navigation-system-for-blind/assets/125789400/ba457e34-30bd-4a15-a996-3ca39da2028a"># Voice-navigation-system-for-blind
-
 ## 后记
 
 > 以上系统的部分测试结果资料可以参考以下视频
